@@ -24,7 +24,7 @@ I am a designer, hacker, and builder working at the intersection of **AI agent a
 
 - 🧠 **AI & Agent Systems:** Building provider-independent agent memory tools, Model Context Protocol (MCP) servers, vector spaces, and cognitive manifolds.
 - 📐 **CAD/CAM & Generative 3D:** Programmatic modeling with SolidWorks, OpenSCAD, and real-time neural mesh generation.
-- 🔬 **Hardware & Embedded:** Embedded firmware on ESP32 / STM32, test bench automation (HP 54520A oscilloscopes, GPIB), RF/SDR, and custom CNC pendants.
+- 🔬 **Hardware & Embedded:** Embedded firmware on RP2040 / ESP32 / STM32, dual-MCU protocol analyzers & bus hacking ([Clavis Probe](https://github.com/theheiszt/UdooKey-Clavis-Probe)), test bench automation (HP 54520A oscilloscopes, GPIB), RF/SDR, and custom CNC pendants.
 - 🌐 **Full-Stack & Desktop:** Electron Windows desktop applications, React, TypeScript, and high-performance HTML5 2D/3D Canvas visualizations.
 
 ---
@@ -33,6 +33,7 @@ I am a designer, hacker, and builder working at the intersection of **AI agent a
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| **[UdooKey-Clavis-Probe](https://github.com/theheiszt/UdooKey-Clavis-Probe)** | Dual-MCU (RP2040 + ESP32) pocket protocol analyzer, hardware bus explorer (I2C, SPI, UART, 1-Wire, JTAG/SWD), and companion Qt 6 desktop workbench with live waveforms, 1.44" ST7735 color UI, and 3D printable enclosure. | `C++20` `RP2040` `ESP32` `Qt 6` `CMake` `Hardware Hacking` |
 | **[AI-Memory-Explorer](https://github.com/theheiszt/AI-Memory-Explorer)** | Provider-independent semantic inspection workspace, 2D/3D topological manifold, and Stream Graph visualizer for AI agent memories. Distributed as both an installable Windows desktop app and web platform. | `TypeScript` `React` `Three.js` `Electron` `Canvas` |
 | **[AI-CAD-Creator](https://github.com/theheiszt/AI-CAD-Creator)** | Generative AI engine to create functional 3D CAD models and parametric parts from natural language prompts. | `Python` `OpenSCAD` `CAD/CAM` `GenAI` |
 | **[SolidworksMCP](https://github.com/theheiszt/SolidworksMCP)** | SolidWorks Model Context Protocol (MCP) server enabling AI assistants (Claude, Gemini) to programmatically generate sketches, extrusions, and assemblies. | `TypeScript` `Node.js` `MCP` `SolidWorks API` |
@@ -76,6 +77,7 @@ I am a designer, hacker, and builder working at the intersection of **AI agent a
   <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt 6" />
   <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
