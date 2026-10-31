@@ -1,18 +1,18 @@
 # Hi there, I'm Andrew (@theheiszt) 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24&height=180&section=header&text=Andrew%20%7C%20theheiszt&fontSize=42&fontAlignY=38&desc=Designer%20%E2%80%A2%20Hardware%20Hacker%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Maker&descAlignY=62&descSize=16&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24&height=180&section=header&text=Andrew%20%7C%20theheiszt&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20AI%20Systems%20%26%20MCP%20Architect&descAlignY=62&descSize=16&fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/theheiszt?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20MCP-6366f1?style=for-the-badge&logo=openai&logoColor=white" alt="AI Systems" />
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Web%20Dev-3178C6?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Web" />
   </a>
   <a href="https://github.com/theheiszt?tab=repositories">
-    <img src="https://img.shields.io/badge/Hardware-ESP32%20%26%20Oscilloscopes-10b981?style=for-the-badge&logo=espressif&logoColor=white" alt="Hardware" />
+    <img src="https://img.shields.io/badge/Architecture-AI%20Agents%20%26%20MCP-6366f1?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents & MCP" />
   </a>
   <a href="https://github.com/theheiszt?tab=repositories">
-    <img src="https://img.shields.io/badge/Fabrication-CAD%2FCAM%20%26%203D%20Printing-f59e0b?style=for-the-badge&logo=autodesk&logoColor=white" alt="CAD/CAM" />
+    <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Python-10b981?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend & Systems" />
   </a>
 </p>
 
@@ -20,27 +20,26 @@
 
 ## ⚡ About Me
 
-I am a designer, hacker, and builder working at the intersection of **AI agent architecture**, **digital fabrication (CAD/CAM/3D Printing)**, and **hardware prototyping & reverse engineering**.
+I am a **full-stack software engineer and systems architect** passionate about building modern, responsive web applications, high-performance developer tooling, and autonomous agent infrastructure.
 
-- 🧠 **AI & Agent Systems:** Building provider-independent agent memory tools, Model Context Protocol (MCP) servers, vector spaces, and cognitive manifolds.
-- 📐 **CAD/CAM & Generative 3D:** Programmatic modeling with SolidWorks, OpenSCAD, and real-time neural mesh generation.
-- 🔬 **Hardware & Embedded:** Embedded firmware on RP2040 / ESP32 / STM32, dual-MCU protocol analyzers & bus hacking ([Clavis Probe](https://github.com/theheiszt/UdooKey-Clavis-Probe)), test bench automation (HP 54520A oscilloscopes, GPIB), RF/SDR, and custom CNC pendants.
-- 🌐 **Full-Stack & Desktop:** Electron Windows desktop applications, React, TypeScript, and high-performance HTML5 2D/3D Canvas visualizations.
+- 🌐 **Modern Web & Frontend:** Production applications with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, state management, and real-time interactive 2D/3D visualizations (**Three.js**, **HTML5 Canvas**, **WebGL**).
+- ⚙️ **Backend & Distributed Systems:** Scalable REST/GraphQL/WebSocket microservices with **Node.js/Express**, **FastAPI/Python**, and **Go**, coupled with PostgreSQL, SQLite, and Redis caching.
+- 🧠 **AI Agent Architecture & MCP:** Developing provider-agnostic Model Context Protocol (**MCP**) servers, cognitive manifolds, semantic retrieval pipelines, and autonomous multi-agent tooling.
+- 💻 **Desktop & Cross-Platform:** Building seamless desktop workspaces with **Electron** and **Qt 6**.
+- 🛠️ **Hardware & Prototyping:** Secondary background in embedded systems (RP2040 / ESP32) and test instrumentation automation.
 
 ---
 
-## 🚀 Featured & Flagship Projects
+## 🚀 Featured Software & Web Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[UdooKey-Clavis-Probe](https://github.com/theheiszt/UdooKey-Clavis-Probe)** | Dual-MCU (RP2040 + ESP32) pocket protocol analyzer, hardware bus explorer (I2C, SPI, UART, 1-Wire, JTAG/SWD), and companion Qt 6 desktop workbench with live waveforms, 1.44" ST7735 color UI, and 3D printable enclosure. | `C++20` `RP2040` `ESP32` `Qt 6` `CMake` `Hardware Hacking` |
-| **[AI-Memory-Explorer](https://github.com/theheiszt/AI-Memory-Explorer)** | Provider-independent semantic inspection workspace, 2D/3D topological manifold, and Stream Graph visualizer for AI agent memories. Distributed as both an installable Windows desktop app and web platform. | `TypeScript` `React` `Three.js` `Electron` `Canvas` |
-| **[AI-CAD-Creator](https://github.com/theheiszt/AI-CAD-Creator)** | Generative AI engine to create functional 3D CAD models and parametric parts from natural language prompts. | `Python` `OpenSCAD` `CAD/CAM` `GenAI` |
-| **[SolidworksMCP](https://github.com/theheiszt/SolidworksMCP)** | SolidWorks Model Context Protocol (MCP) server enabling AI assistants (Claude, Gemini) to programmatically generate sketches, extrusions, and assemblies. | `TypeScript` `Node.js` `MCP` `SolidWorks API` |
-| **[Gumroad-AI-MCP-Server](https://github.com/theheiszt/Gumroad-AI-MCP-Server)** | Agentic MCP platform allowing AI agents to securely inspect store analytics, manage listings, and automate creator workflows. | `TypeScript` `Express` `MCP` `REST API` |
-| **[airport-security](https://github.com/theheiszt/airport-security)** | Realistic first-person airport security checkpoint simulation in Unity (URP) featuring dual-energy X-ray screening, physical baggage inspection, passenger interviews, and evidence adjudication. | `C#` `Unity 6` `URP` `Simulation` |
-| **[hp54520a-lab-assistant](https://github.com/theheiszt/hp54520a-lab-assistant)** | Laboratory assistant platform and Linux connection layer for HP 54520A/54522A/54540A oscilloscopes over GPIB. | `Python` `GPIB` `Signal Processing` `Linux` |
-| **[ESP32-OpenCV-Projects](https://github.com/theheiszt/ESP32-OpenCV-Projects)** | Running standalone computer vision, object classification, and person detection directly on ESP32-CAM modules. | `C++` `ESP32` `OpenCV` `Embedded Vision` |
+| **[AI-Memory-Explorer](https://github.com/theheiszt/AI-Memory-Explorer)** | Comprehensive visual inspection workspace, topological 2D/3D manifold visualizer, and Stream Graph analytics engine for AI agent memories. Ships as an installable desktop application and responsive web platform. | `TypeScript` `React` `Three.js` `Electron` `Canvas` `Vite` |
+| **[Gumroad-AI-MCP-Server](https://github.com/theheiszt/Gumroad-AI-MCP-Server)** | Production Model Context Protocol (MCP) server providing AI agents secure, structured interfaces to inspect commerce metrics, query store products, and automate creator operations. | `TypeScript` `Node.js` `Express` `MCP SDK` `REST API` |
+| **[SolidworksMCP](https://github.com/theheiszt/SolidworksMCP)** | Assistive CAD/CAM bridge implementing Model Context Protocol over programmatic COM/IPC boundaries, allowing LLM agents to orchestrate geometric generation. | `TypeScript` `Node.js` `MCP` `API Automation` |
+| **[UdooKey-Clavis-Probe](https://github.com/theheiszt/UdooKey-Clavis-Probe)** | Full-featured Qt 6 desktop application and dual-MCU logic probe for real-time waveform capture, bus protocol decoding (I2C, SPI, UART, 1-Wire), and signal visualization. | `C++20` `Qt 6` `CMake` `Embedded Systems` |
+| **[airport-security](https://github.com/theheiszt/airport-security)** | Interactive real-time checkpoint simulation featuring procedural rendering, dual-energy X-ray shading, physics-based luggage interaction, and evidence adjudication logic. | `C#` `Unity 6` `URP` `Interactive Simulation` |
+| **[hp54520a-lab-assistant](https://github.com/theheiszt/hp54520a-lab-assistant)** | Laboratory automation platform and Linux control bridge for HP digitizing oscilloscopes over IEEE-488 (GPIB) with waveform export and analysis. | `Python` `GPIB` `Data Analysis` `Linux` |
 
 ---
 
@@ -70,42 +69,48 @@ I am a designer, hacker, and builder working at the intersection of **AI agent a
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <br />
-  <!-- Frameworks & Tools -->
+  <!-- Web & Frameworks -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt 6" />
   <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt 6" />
   <br />
-  <!-- Hardware & Making -->
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/SolidWorks-EA212D?style=flat-square&logo=dassaultsyst%C3%A8mes&logoColor=white" alt="SolidWorks" />
-  <img src="https://img.shields.io/badge/3D%20Printing-0284C7?style=flat-square&logo=prusa&logoColor=white" alt="3D Printing" />
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## ☕ Support & Donations
+## ☕ Support & Settlement
 
-If my open-source tools, hardware projects, or reverse engineering research have helped you, donations to support ongoing development and hardware acquisition are hugely appreciated!
+If my open-source tools, developer libraries, or software contributions have helped you, sponsorship and support are greatly appreciated:
 
-| Currency | Network | Donation Address |
+| Asset | Network | Address |
 |:---:|:---:|---|
+| <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=035" width="20" height="20" /> **Solana (SOL / USDC)** | Solana Mainnet-Beta | `BU5zBur46YjnCaY34XGBTJ8KSAG9EExjpZA58wDo7wAx` |
+| <img src="https://cryptologos.cc/logos/litecoin-ltc-logo.svg?v=035" width="20" height="20" /> **Litecoin (LTC)** | Litecoin Mainnet | `ltc1qtqrnhnp3ju52qn4fyp94ad52v23rqvy3cmtnkg` |
 | <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=035" width="20" height="20" /> **Bitcoin (BTC)** | Native SegWit (Bech32) | `bc1q3nvq2wa44c2uxd35lfk79w04g8apw3285pts7t` |
-| <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=035" width="20" height="20" /> **Ethereum (ETH)** | ERC-20 / EVM | `0x023412b3ace6deA537feA0ca5888ccfB5250b3Ba` |
-| <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=035" width="20" height="20" /> **Solana (SOL)** | Solana SPL | `BU5zBur46YjnCaY34XGBTJ8KSAG9EExjpZA58wDo7wAx` |
+| <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=035" width="20" height="20" /> **Ethereum (ETH / EVM)** | ERC-20 / EVM | `0x023412b3ace6deA537feA0ca5888ccfB5250b3Ba` |
 
 ```text
-Bitcoin (BTC):   bc1q3nvq2wa44c2uxd35lfk79w04g8apw3285pts7t
-Ethereum (ETH):  0x023412b3ace6deA537feA0ca5888ccfB5250b3Ba
-Solana (SOL):    BU5zBur46YjnCaY34XGBTJ8KSAG9EExjpZA58wDo7wAx
+Solana (SOL/USDC):  BU5zBur46YjnCaY34XGBTJ8KSAG9EExjpZA58wDo7wAx
+Litecoin (LTC):     ltc1qtqrnhnp3ju52qn4fyp94ad52v23rqvy3cmtnkg
+Bitcoin (BTC):      bc1q3nvq2wa44c2uxd35lfk79w04g8apw3285pts7t
+Ethereum (ETH):     0x023412b3ace6deA537feA0ca5888ccfB5250b3Ba
 ```
 
 ---
