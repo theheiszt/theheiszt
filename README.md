@@ -30,6 +30,89 @@ I am a **full-stack software engineer and systems architect** passionate about b
 
 ---
 
+## 🔬 AI Research & Development
+
+Beyond using AI developer tooling, my work centers on active research, architectural design, and open-source implementation across autonomous agents, local model acceleration, persistent cognitive memory, and decentralized machine intelligence.
+
+### 📐 Research Disciplines
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Autonomous AI Agents</h4>
+      <ul>
+        <li>Multi-agent orchestration, consensus, and coordination</li>
+        <li>Agent-to-Agent communication (A2A) protocols</li>
+        <li>Autonomous task execution, permission boundaries, and audit logging</li>
+        <li>Agent micro-economies and programmatic API subscriptions</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Local AI &amp; Model Engineering</h4>
+      <ul>
+        <li>Local inference on consumer hardware (Intel Arc A770 16GB)</li>
+        <li>Quantized execution (GGUF / SYCL acceleration via llama.cpp)</li>
+        <li>Autonomous coding agent runtime loops &amp; self-repair</li>
+        <li>Inference latency, throughput, and context window benchmarking</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Memory &amp; Cognitive Architectures</h4>
+      <ul>
+        <li>Persistent cross-model memory systems (PAMI)</li>
+        <li>Episodic, working, and semantic memory separation</li>
+        <li>Vector retrieval (Qdrant, Chroma) &amp; FTS5 hybrid search</li>
+        <li>Memory manifold visualization &amp; topological reduction (UMAP/PCA)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📐 AI-Assisted Engineering</h4>
+      <ul>
+        <li>Natural-language-to-parametric-CAD generation</li>
+        <li>OpenCascade geometry kernel automation</li>
+        <li>Computer vision at the edge (ESP32-CAM / OpenCV)</li>
+        <li>Model Context Protocol (MCP) bridges for CAD/engineering tools</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>⛓️ AI Intelligence &amp; Blockchain</h4>
+      <ul>
+        <li>On-chain intelligence, wallet inspection, and algorithmic transaction forensics</li>
+        <li>Decentralized agent payment rails (Solana SPL, USDC, automated settlement)</li>
+        <li>Autonomous agent asset ownership, token-gated API credentials, and verifiable receipts</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 🧪 Featured Research Projects
+
+| Project | Status | Research Focus | Repository / Access |
+|---|:---:|---|---|
+| **[AI-Memory-Explorer](https://github.com/theheiszt/AI-Memory-Explorer)** | `Built` | Provider-independent cognitive memory visualizer, 2D/3D topological manifold inspection, and vector retrieval. | [github.com/theheiszt/AI-Memory-Explorer](https://github.com/theheiszt/AI-Memory-Explorer) |
+| **[AI-CAD-Creator](https://github.com/theheiszt/AI-CAD-Creator)** | `Built` | Natural language to functional CAD; automated 3D parametric solids generation via OpenCascade and OpenSCAD. | [github.com/theheiszt/AI-CAD-Creator](https://github.com/theheiszt/AI-CAD-Creator) |
+| **[Moltbook Alpha](https://github.com/theheiszt/moltbook-alpha)** | `Developing` | Autonomous agent network infrastructure, on-chain intelligence, A2A communication, and Solana settlement. | [github.com/theheiszt/moltbook-alpha](https://github.com/theheiszt/moltbook-alpha) |
+| **Gwen** | `Developing` | Local autonomous coding agent running quantized Qwen3-8B on Intel Arc A770 (SYCL) with self-repair loops. | *Local Deployment & Architecture* |
+| **PAMI** | `Researching` | Persistent AI Memory Infrastructure: cross-model semantic memory sharing, FTS5/vector hybrid indexing, and contradiction detection. | *Research Initiative & Spec* |
+
+### 📌 Current Research & Experimentation
+
+- **Autonomous Agent Reliability & Safety:** Hardening closed-loop agent execution with strict permission tiers, runtime sandbox checks, and non-bypassable audit logging.
+- **Persistent Cognitive Memory:** Investigating structured, cross-model memory interchange formats that decouple agent knowledge from specific LLM vendors.
+- **Consumer Hardware Acceleration:** Pushing sub-second prompt evaluation and multi-slot local inference on Intel Arc A770 16GB via SYCL.
+- **A2A & Autonomous Economics:** Researching programmatic invoice settlement and micro-payments between independent agent workers.
+- **AI-Native Engineering Workflows:** Extending Model Context Protocol (MCP) integrations across CAD, CAM, and simulation engines.
+
+<p align="right">
+  <a href="https://github.com/theheiszt?tab=repositories"><strong>Explore all 37+ repositories &rarr;</strong></a>
+</p>
+
+---
+
 ## 🚀 Featured Software & Web Projects
 
 | Project | Description | Tech Stack |
