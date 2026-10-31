@@ -1,7 +1,7 @@
 # Hi there, I'm Andrew (@theheiszt) 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,24&height=180&section=header&text=Andrew%20%7C%20theheiszt&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20AI%20Systems%20%26%20MCP%20Architect&descAlignY=62&descSize=16&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="header.svg" width="100%" alt="Andrew | theheiszt - Full-Stack Engineer & AI Systems Architect" />
 </p>
 
 <p align="center">
