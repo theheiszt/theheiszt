@@ -93,9 +93,9 @@ Beyond using AI developer tooling, my work centers on active research, architect
 
 | Project | Status | Research Focus | Repository / Access |
 |---|:---:|---|---|
-| **[AI-Memory-Explorer](https://github.com/theheiszt/AI-Memory-Explorer)** | `Built` | Provider-independent cognitive memory visualizer, 2D/3D topological manifold inspection, and vector retrieval. | [github.com/theheiszt/AI-Memory-Explorer](https://github.com/theheiszt/AI-Memory-Explorer) |
-| **[AI-CAD-Creator](https://github.com/theheiszt/AI-CAD-Creator)** | `Built` | Natural language to functional CAD; automated 3D parametric solids generation via OpenCascade and OpenSCAD. | [github.com/theheiszt/AI-CAD-Creator](https://github.com/theheiszt/AI-CAD-Creator) |
-| **[Moltbook Alpha](https://github.com/theheiszt/moltbook-alpha)** | `Developing` | Autonomous agent network infrastructure, on-chain intelligence, A2A communication, and Solana settlement. | [github.com/theheiszt/moltbook-alpha](https://github.com/theheiszt/moltbook-alpha) |
+| **[AI-Memory-Explorer](https://github.com/theheiszt/AI-Memory-Explorer)** | `In Development 85%` | Provider-independent cognitive memory visualizer, 2D/3D topological manifold inspection, and vector retrieval. | [github.com/theheiszt/AI-Memory-Explorer](https://github.com/theheiszt/AI-Memory-Explorer) |
+| **[AI-CAD-Creator](https://github.com/theheiszt/AI-CAD-Creator)** | `Early Development` | Natural language to functional CAD; automated 3D parametric solids generation via OpenCascade and OpenSCAD. | [github.com/theheiszt/AI-CAD-Creator](https://github.com/theheiszt/AI-CAD-Creator) |
+| **[Moltbook Alpha](https://github.com/theheiszt/moltbook-alpha)** | `Release/Development 95%` | Autonomous agent network infrastructure, on-chain intelligence, A2A communication, and Solana settlement. | [github.com/theheiszt/moltbook-alpha](https://github.com/theheiszt/moltbook-alpha) |
 | **Gwen** | `Developing` | Local autonomous coding agent running quantized Qwen3-8B on Intel Arc A770 (SYCL) with self-repair loops. | *Local Deployment & Architecture* |
 | **PAMI** | `Researching` | Persistent AI Memory Infrastructure: cross-model semantic memory sharing, FTS5/vector hybrid indexing, and contradiction detection. | *Research Initiative & Spec* |
 
