@@ -20,13 +20,13 @@
 
 ## ⚡ About Me
 
-I am a **full-stack software engineer and systems architect** passionate about building modern, responsive web applications, high-performance developer tooling, and autonomous agent infrastructure.
+I am passionate about building modern, responsive web applications, high-performance developer tooling, and autonomous agent infrastructure.
 
-- 🌐 **Modern Web & Frontend:** Production applications with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, state management, and real-time interactive 2D/3D visualizations (**Three.js**, **HTML5 Canvas**, **WebGL**).
+- 🌐 **Modern Web & Frontend:** Production application creation with **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, state management, and real-time interactive 2D/3D visualizations (**Three.js**, **HTML5 Canvas**, **WebGL**).
 - ⚙️ **Backend & Distributed Systems:** Scalable REST/GraphQL/WebSocket microservices with **Node.js/Express**, **FastAPI/Python**, and **Go**, coupled with PostgreSQL, SQLite, and Redis caching.
 - 🧠 **AI Agent Architecture & MCP:** Developing provider-agnostic Model Context Protocol (**MCP**) servers, cognitive manifolds, semantic retrieval pipelines, and autonomous multi-agent tooling.
 - 💻 **Desktop & Cross-Platform:** Building seamless desktop workspaces with **Electron** and **Qt 6**.
-- 🛠️ **Hardware & Prototyping:** Secondary background in embedded systems (RP2040 / ESP32) and test instrumentation automation.
+- 🛠️ **Hardware & Prototyping:** Secondary background in embedded systems (RP2040 / ESP32), test instrumentation automation and additive manufacturing.
 
 ---
 
